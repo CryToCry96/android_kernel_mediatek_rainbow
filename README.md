@@ -4,4 +4,4 @@ Wiko Rainbow Kernel (3.4.67)
 To build use "MakeMtk"
 
 
-./mk wiko n k
+./mk -o=TARGET_BUILD_VARIANT=user wiko n k
