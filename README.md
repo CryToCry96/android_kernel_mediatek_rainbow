@@ -1,4 +1,7 @@
-android_kernel_mediatek_rainbow
+Wiko Rainbow Kernel (3.4.67)
 ===============================
 
-Wiko Rainbow Kernel (3.4.67)
+To build use "MakeMtk"
+
+
+./mk wiko n k
